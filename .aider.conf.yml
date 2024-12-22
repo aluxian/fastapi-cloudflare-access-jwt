@@ -1,7 +1,7 @@
 file:
-  - cloudflare_access_jwt/__init__.py
-  - cloudflare_access_jwt/cloudflare_access_jwt_test.py
-  - cloudflare_access_jwt/cloudflare_access_jwt.py
+  - src/cloudflare_access_jwt/__init__.py
+  - src/cloudflare_access_jwt/cloudflare_access_jwt_test.py
+  - src/cloudflare_access_jwt/cloudflare_access_jwt.py
   - pyproject.toml
   - README.md
 check-update: false
