@@ -1,5 +1,9 @@
 # FastAPI bearer class for Cloudflare Access (Argo Tunnel)
 
+[![PyPI](https://img.shields.io/pypi/v/fastapi-cloudflare-access-jwt)](https://pypi.org/project/fastapi-cloudflare-access-jwt/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/fastapi-cloudflare-access-jwt)](https://pypi.org/project/fastapi-cloudflare-access-jwt/)
+[![PyPI - License](https://img.shields.io/pypi/l/fastapi-cloudflare-access-jwt)](https://pypi.org/project/fastapi-cloudflare-access-jwt/)
+
 A FastAPI middleware for authenticating requests from Cloudflare Access (formerly Argo Tunnel) using JWT tokens.
 
 ## Why?
