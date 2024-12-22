@@ -12,7 +12,7 @@ description = "FastAPI middleware for Cloudflare Access JWT authentication"
 readme = "README.md"
 requires-python = ">=3.12"
 license = "MIT"
-authors = [{ name = "Alexandru Rosianu", email = "me@aluxian.com" }]
+authors = [{ name = "Alexandru Rosianu" }]
 keywords = ["fastapi", "cloudflare", "jwt", "authentication", "middleware"]
 classifiers = [
     "Development Status :: 4 - Beta",
