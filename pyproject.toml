@@ -7,7 +7,7 @@ packages = ["src/cloudflare_access_jwt"]
 
 [project]
 name = "fastapi-cloudflare-access-jwt"
-version = "0.1.0"
+version = "0.1.1"
 description = "FastAPI middleware for Cloudflare Access JWT authentication"
 readme = "README.md"
 requires-python = ">=3.12"
